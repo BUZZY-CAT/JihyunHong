@@ -8,8 +8,8 @@
 }
 
 @font-face {
-    font-family: 'LeferiPoint-WhiteObliqueA';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-WhiteObliqueA.woff') format('woff');
+    font-family: 'M PLUS 1 Code', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code&display=swap'); format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,7 +24,7 @@ a {
 html, body {
     color: #333;
     min-width: 1280px; 
-    font-family: 'LeferiPoint-WhiteObliqueA';
+    font-family: 'M PLUS 1 Code', sans-serif;
 }
 
 /* header */
